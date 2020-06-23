@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Here are some of the demo screenshot for you
 
-! [Demo 1] (localhost_57260_(Pixel 2).png)
-! [Demo 2] (localhost_57260_(Pixel 2) (1).png)
+![Demo 1](localhost_57260_(Pixel 2).png)
+![Demo 2](localhost_57260_(Pixel 2) (1).png)
