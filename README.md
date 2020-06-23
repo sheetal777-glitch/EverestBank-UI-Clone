@@ -17,5 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Here are some of the demo screenshot for you
 
-![Demo 1](localhost_57260_(Pixel 2).png)
-![Demo 2](localhost_57260_(Pixel 2) (1).png)
+<img src="localhost_57260_(Pixel 2).png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+<img src="localhost_57260_(Pixel 2) (1).png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />     
+
